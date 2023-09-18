@@ -1,4 +1,4 @@
-#Paper Trading Project hello world
+#Paper Trading Project
 
 #Overview
 
