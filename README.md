@@ -7,7 +7,6 @@ The Mock Brokerage Account is a comprehensive project developed as the final pro
 - **Paper Trading:** Users can simulate buying and selling stocks using virtual currency, allowing them to practice trading strategies in a risk-free environment.
 - **Real-time Stock Data:** Integration with the IEX API provides users with access to real-time stock prices and market data, enhancing the authenticity of the trading experience.
 - **Multi-language Implementation:** The project is programmed using Flash, Python, HTML, and SQL, showcasing proficiency in a diverse range of programming languages and technologies.
-- **AWS Deployment:** The codebase is deployed on AWS IDE, ensuring scalability, reliability, and accessibility for users.
 
 ## Technologies Used
 - Flash
