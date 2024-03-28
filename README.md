@@ -14,18 +14,22 @@ The Mock Brokerage Account is a comprehensive project developed as the final pro
 - Python
 - HTML
 - SQL
-- AWS IDE
 
 ## How to Use
 1. Clone the repository to your local machine.
 2. Set up the necessary dependencies and environment configurations.
-3. Run the application locally or deploy it to a cloud platform like AWS for accessibility.
+3. Run the application locally by accessing the flask server.
 4. Register for a virtual account and start paper trading stocks using the provided interface.
 
-## Contributors
-- [Your Name](link to your GitHub profile)
-- [Collaborator's Name](link to collaborator's GitHub profile)
+## Future Implementations
 
-## License
-This project is licensed under the [MIT License](link to license file).
+### Hosting on AWS Platform
+- **AWS Deployment:** Plan to migrate the project to an AWS platform for improved scalability, reliability, and accessibility. Hosting on AWS will ensure seamless performance and better management of resources, allowing for potential integration with other AWS services for enhanced functionality.
+
+### Aesthetics and Website Look Enhancements
+- **UI/UX Redesign:** Consider redesigning the user interface to enhance aesthetics and improve user experience. This may involve updating the layout, color scheme, and visual elements to create a more visually appealing and user-friendly environment.
+- **Responsive Design:** Implement responsive design principles to ensure that the website is optimized for various devices and screen sizes, providing a consistent experience across desktop, tablet, and mobile platforms.
+
+
+
 
